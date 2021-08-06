@@ -1,5 +1,5 @@
 {
-  "name": "diversifi-challenge",
+  "name": "diversifi-nodejs-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "src/bootstrap.js",
@@ -7,7 +7,7 @@
     "start": "node src/bootstrap.js",
     "test": "jest"
   },
-  "author": "Arman Yaraee",
+  "author": "DeversiFi",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.0.6"
