@@ -1,4 +1,4 @@
-# Diversify Code challenge
+# Diversifi Code challenge
 
 ## Details
 [Details Google Doc](https://docs.google.com/document/d/1ACPYGtGSSKczvJ5gaMs1obzrfl_zrDbpLk0McRQ3id0/edit#)
