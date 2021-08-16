@@ -42,7 +42,7 @@ module.exports = (baseUrl, symbol, percision) => {
 
     // this has been written as an example, feel free
     // to change and return in a different format
-    return prices.reduce((orders, [price, , amount]) => {
+    return prices.reduce((orders, [_id, price, amount]) => {
       const target = amount > 0 ? orders.bids : orders.asks
       target.push(price)
       return orders
